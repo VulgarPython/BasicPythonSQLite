@@ -1,2 +1,2 @@
 # BasicPythonSQLite
-Basic python sqlite operations
+A basic overview of python sqlite CRUD operations.
